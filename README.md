@@ -3,7 +3,7 @@
 An IoT-based weather monitoring system built on ESP8266.
 
 ## Features
-- Real-time temperature and humidity via DHT22
+- Real-time temperature and humidity via DHT11
 - Atmospheric pressure monitoring via BMP180
 - Local display on 16x2 LCD
 - Remote monitoring via Blynk IoT platform over WiFi
@@ -11,7 +11,7 @@ An IoT-based weather monitoring system built on ESP8266.
 
 ## Hardware
 - ESP8266 NodeMCU
-- DHT22 temperature/humidity sensor
+- DHT11 temperature/humidity sensor
 - BMP180 barometric pressure sensor
 - 16x2 LCD display
 
